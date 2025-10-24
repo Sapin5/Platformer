@@ -1,0 +1,19 @@
+#ifndef GAMEMANAGER_H
+#define GAMEMANAGER_H
+
+#include "raylib.h"
+#include "screen.hpp"
+
+namespace Platformer {
+
+	class GameManager {
+	public:
+		GameManager() = default;
+		void drawScreen();
+	};
+	//drawing
+	
+
+	//updating
+}
+#endif // !GAMEMANAGEr
