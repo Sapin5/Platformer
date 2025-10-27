@@ -8,7 +8,7 @@ namespace Platformer {
 		int screen_height{ 100 };
 		int screen_width{ 100 };
 
-		enum class GameState { Home, Win, Loss};
+		enum class GameState {Home, Win, Loss, Play};
 
 		void setScreenSize(int screenX, int screenY);
 
@@ -18,7 +18,7 @@ namespace Platformer {
 
 		GameState currentState{ GameState::Home };
 	private:
-		static constexpr int totalGameSates{ 3 };
+		static constexpr int totalGameSates{ 4 };
 	};
 }
 #endif // !SCREENAMANGER

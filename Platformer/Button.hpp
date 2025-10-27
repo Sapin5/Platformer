@@ -32,9 +32,7 @@ namespace Platformer{
 		
 		void hoveredOver();
 
-		void drawButton() const;
-
-		void clicked();
+		void drawButton() ;
 	};
 }
 

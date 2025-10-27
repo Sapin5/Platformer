@@ -1,2 +1,7 @@
 ﻿  Button.cpp
-  Platformer.vcxproj -> C:\Users\Spinto\source\repos\Programming\Platformer\Platformer\x64\Debug\Platformer.exe
+  Platformer.cpp
+  Screens.cpp
+  game_m.cpp
+  player.cpp
+  Generating Code...
+  Platformer.vcxproj -> C:\Users\Santiago Pinto\Documents\Platformer\Platformer\x64\Debug\Platformer.exe

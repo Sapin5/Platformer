@@ -8,7 +8,7 @@ int main()
 	 InitWindow(400, 400, "Platformer");
 
      Platformer::GameManager Game;
-
+     
      while (!WindowShouldClose()) {
          BeginDrawing();
 

@@ -21,19 +21,21 @@ namespace Platformer {
 		else if (ch == 'h') {
 			currentState = GameState::Home;
 		}	
+		else if (ch == 'p') {
+			currentState = GameState::Play;
+		}
 	}
 
 	void screen::setScreen() {
 		if (currentState == GameState::Home) {
-			
-			playButton.hoveredOver();
-
-			//playButton.drawButton();
+			playButton.drawButton();
 			ClearBackground(RAYWHITE);
 		}else if (currentState == GameState::Win) {
 			ClearBackground(BLUE);
 		}else if (currentState == GameState::Loss) {
 			ClearBackground(RED);
+		}else if (currentState == GameState::Play) {
+			ClearBackground(ORANGE);
 		}
 	}
 }
