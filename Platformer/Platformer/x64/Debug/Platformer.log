@@ -1,2 +1,8 @@
 ﻿  Screens.cpp
-  Platformer.vcxproj -> C:\Users\Spinto\source\repos\Programming\Platformer\Platformer\x64\Debug\Platformer.exe
+  game_m.cpp
+  player.cpp
+  Generating Code...
+C:\Users\Spinto\source\repos\Programming\Platformer\Platformer\player.cpp(4,7): error C2011: 'player': 'class' type redefinition
+      C:\Users\Spinto\source\repos\Programming\Platformer\Platformer\player.hpp(3,7):
+      see declaration of 'player'
+  

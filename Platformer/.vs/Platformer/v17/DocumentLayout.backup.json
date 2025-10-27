@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Screens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\game_m.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:game_m.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screen.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Screen.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Platformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Platformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\game_m.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:game_m.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\game_m.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:game_m.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Controller.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Platformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Platformer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screen.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Screen.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Button.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C074A0C6-499E-4878-B1A3-CD38E9E59D65}|Platformer.vcxproj|solutionrelative:Screens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,28 +54,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "player.cpp",
-              "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.cpp",
-              "RelativeDocumentMoniker": "player.cpp",
-              "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.cpp",
-              "RelativeToolTip": "player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-27T18:05:19.368Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "player.hpp",
+              "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.hpp",
+              "RelativeDocumentMoniker": "player.hpp",
+              "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.hpp",
+              "RelativeToolTip": "player.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-27T18:33:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.cpp",
+              "RelativeDocumentMoniker": "player.cpp",
+              "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\player.cpp",
+              "RelativeToolTip": "player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-27T18:05:19.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Button.cpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Button.cpp",
               "RelativeDocumentMoniker": "Button.cpp",
@@ -84,46 +101,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Button.hpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Button.hpp",
               "RelativeDocumentMoniker": "Button.hpp",
               "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Button.hpp",
               "RelativeToolTip": "Button.hpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-24T15:03:24.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Screens.cpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screens.cpp",
               "RelativeDocumentMoniker": "Screens.cpp",
               "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screens.cpp",
               "RelativeToolTip": "Screens.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-23T18:53:31.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Screen.hpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screen.hpp",
               "RelativeDocumentMoniker": "Screen.hpp",
               "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Screen.hpp",
               "RelativeToolTip": "Screen.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-23T15:40:59.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Controller.hpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Controller.hpp",
               "RelativeDocumentMoniker": "Controller.hpp",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Controller.cpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Controller.cpp",
               "RelativeDocumentMoniker": "Controller.cpp",
@@ -149,33 +166,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "game_m.hpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\game_m.hpp",
               "RelativeDocumentMoniker": "game_m.hpp",
               "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\game_m.hpp",
               "RelativeToolTip": "game_m.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-22T19:56:42.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "game_m.cpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\game_m.cpp",
               "RelativeDocumentMoniker": "game_m.cpp",
               "ToolTip": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\game_m.cpp",
               "RelativeToolTip": "game_m.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-22T19:56:27.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Platformer.cpp",
               "DocumentMoniker": "C:\\Users\\Spinto\\source\\repos\\Programming\\Platformer\\Platformer\\Platformer.cpp",
               "RelativeDocumentMoniker": "Platformer.cpp",

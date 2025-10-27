@@ -4,6 +4,7 @@
 #include "raylib.h"
 #include "screen.hpp"
 #include "controller.hpp"
+#include "player.hpp"
 
 namespace Platformer {
 

@@ -137,6 +137,7 @@
     <ClInclude Include="Button.hpp" />
     <ClInclude Include="Controller.hpp" />
     <ClInclude Include="game_m.hpp" />
+    <ClInclude Include="player.hpp" />
     <ClInclude Include="Screen.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -3,8 +3,6 @@
 #include <iostream>
 
 namespace Platformer {
-
-
 	Platformer::Button playButton(100, 100, 150, 150, BLUE, RED);
 	Platformer::Button homeButton(100, 100, 150, 150, WHITE, BLACK);
 
