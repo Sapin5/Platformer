@@ -1,15 +1,14 @@
 #include "game_m.hpp"
 #include <iostream>
 
-
 namespace Platformer {
+	char key{ };
 	Platformer::screen gameScreen;
 	//drawing
 	void GameManager::drawScreen(){
-
-		int ch{ GetCharPressed() };
-
-		gameScreen.update(static_cast<char>(ch));
+		key = Platformer::getKeyPressed();
+		std::cout << key;
+		gameScreen.update(key);
 
 		gameScreen.setScreen();
 	}

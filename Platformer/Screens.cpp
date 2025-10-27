@@ -1,41 +1,41 @@
 #include "screen.hpp"
-#include <iostream>
 #include "Button.hpp"
+#include <iostream>
 
 namespace Platformer {
 
 
 	Platformer::Button playButton(100, 100, 150, 150, BLUE, RED);
+	Platformer::Button homeButton(100, 100, 150, 150, WHITE, BLACK);
+
 	void screen::setScreenSize(int screenX, int screenY) {
 		screen_height = screenY;
 		screen_width = screenX;
 	}
 	
 	void screen::update(char ch) {
-		if (ch == 'w') {
-			currentState = GameState::Win;
-		}
-		else if (ch == 'l') {
-			currentState = GameState::Loss;
-		}
-		else if (ch == 'h') {
-			currentState = GameState::Home;
-		}	
-		else if (ch == 'p') {
+		if (ch == 'p') {
 			currentState = GameState::Play;
 		}
 	}
 
 	void screen::setScreen() {
-		if (currentState == GameState::Home) {
-			playButton.drawButton();
+		switch (currentState) {
+		case  GameState::Home:
+			if (playButton.drawButton()) currentState = GameState::Play;
 			ClearBackground(RAYWHITE);
-		}else if (currentState == GameState::Win) {
-			ClearBackground(BLUE);
-		}else if (currentState == GameState::Loss) {
+			break;
+		case GameState::Play:
+			ClearBackground(RAYWHITE);
+			break;
+		case GameState::Loss:
+			if (homeButton.drawButton()) currentState = GameState::Home;
 			ClearBackground(RED);
-		}else if (currentState == GameState::Play) {
-			ClearBackground(ORANGE);
+			break;
+		case GameState::Win:
+			if (homeButton.drawButton()) currentState = GameState::Home;
+			ClearBackground(BLUE);
+			break;
 		}
 	}
 }

@@ -3,8 +3,10 @@
 
 #include "raylib.h"
 #include "screen.hpp"
+#include "controller.hpp"
 
 namespace Platformer {
+
 
 	class GameManager {
 	public:
@@ -12,6 +14,7 @@ namespace Platformer {
 		void drawScreen();
 	};
 	//drawing
+	
 	
 
 	//updating

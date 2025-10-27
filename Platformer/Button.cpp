@@ -1,28 +1,29 @@
 #include "Button.hpp"
-#include <iostream>
-
 
 namespace Platformer {
 
-	void Button::hoveredOver() {
+	bool Button::hoveredOver() {
 		
 		if (GetMousePosition().x >= xPos && GetMousePosition().x <= xPos + width &&
 			GetMousePosition().y >= yPos && GetMousePosition().y <= yPos + height) {
 			
-			if (!IsMouseButtonDown(MOUSE_BUTTON_LEFT)) {
-				C = hovered;
+			if (IsMouseButtonPressed(MOUSE_BUTTON_LEFT)) {
+				C = GREEN;
+				return true;
 			}
 			else {
-				C = GREEN;
+				C = hovered;
+				return false;
 			}
 		}
 		else {
 			C = normal;
+			return false;
 		}
 	}
 
-	void Button::drawButton() {
+	bool Button::drawButton() {
 		DrawRectangle(xPos, yPos, width, height, C);
-		hoveredOver();
+		return hoveredOver();
 	}
 }

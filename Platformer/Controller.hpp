@@ -3,7 +3,7 @@
 #include "raylib.h"
 
 namespace Platformer {
-	int ch{ GetCharPressed() };
-
+	char getKeyPressed();
 }
+
 #endif // !CONTROLLER
